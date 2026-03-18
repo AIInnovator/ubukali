@@ -18,9 +18,9 @@
 [![Zsh](https://img.shields.io/badge/Shell-Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)](https://www.zsh.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%20|%2022.04%20|%2024.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/ubukali?style=for-the-badge&color=yellow&logo=github)](https://github.com/YOUR_USERNAME/ubukali/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/ubukali?style=for-the-badge&color=blue&logo=github)](https://github.com/YOUR_USERNAME/ubukali/forks)
-[![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/ubukali?style=for-the-badge&color=red&logo=github)](https://github.com/YOUR_USERNAME/ubukali/issues)
+[![Stars](https://img.shields.io/github/stars/AIInnovator/ubukali?style=for-the-badge&color=yellow&logo=github)](https://github.com/AIInnovator/ubukali/stargazers)
+[![Forks](https://img.shields.io/github/forks/AIInnovator/ubukali?style=for-the-badge&color=blue&logo=github)](https://github.com/AIInnovator/ubukali/forks)
+[![Issues](https://img.shields.io/github/issues/AIInnovator/ubukali?style=for-the-badge&color=red&logo=github)](https://github.com/AIInnovator/ubukali/issues)
 [![Version](https://img.shields.io/badge/version-2.0-brightgreen?style=for-the-badge)](CHANGELOG.md)
 
 </div>
@@ -118,13 +118,13 @@ reload               → source ~/.zshrc
 ### One-liner
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/ubukali/main/kali-terminal-setup.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/AIInnovator/ubukali/main/kali-terminal-setup.sh)
 ```
 
 ### Or clone & run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ubukali.git
+git clone https://github.com/AIInnovator/ubukali.git
 cd ubukali
 bash kali-terminal-setup.sh
 ```
